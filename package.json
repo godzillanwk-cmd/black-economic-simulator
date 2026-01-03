@@ -1,0 +1,57 @@
+{
+  "name": "black-economic-simulator",
+  "version": "1.0.0",
+  "description": "AI-powered economic simulator for African American business and media wealth building",
+  "keywords": [
+    "economic-simulator",
+    "wealth-building",
+    "black-business",
+    "entrepreneurship",
+    "ai-advisor",
+    "financial-planning"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godzillanwk-cmd/black-economic-simulator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/godzillanwk-cmd/black-economic-simulator/issues"
+  },
+  "homepage": "https://github.com/godzillanwk-cmd/black-economic-simulator#readme",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.10.3",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
